@@ -1,0 +1,20 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "This is a description of MyToken.",
+  "image": "https://example.com/image.png",  // Replace with your image URL
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/image.png",  // Replace with your image URL
+        "type": "image/png"
+      }
+    ]
+  }
+}
